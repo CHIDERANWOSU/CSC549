@@ -1,3 +1,5 @@
+# NMR
+
 Downloading clustalw2 from http://www.clustal.org/download/current/ for macos
 
 vi ~/.bash_profile of your environment file
