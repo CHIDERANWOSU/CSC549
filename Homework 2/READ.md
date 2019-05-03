@@ -1,3 +1,5 @@
+# Homework 2
+
 In the file human.fa you will find 13 human protein sequences in fasta format. In particular, in such a file each sequence entry starts with '>' telling you information about the following sequence that is formated by strings of 60 characters. Currently each entry is annoated by its gene name.
 
 In the file protein-coding_gene.txt you will find more information about human genes and proteins. In particular, the file contains the information about gene names, their synonyms and gene location.
