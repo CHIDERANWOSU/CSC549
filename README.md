@@ -1,4 +1,4 @@
-# Biomedical-Data-Analysis
+# CSC549
 
 Course Description
 The goal of this course is to teach students how to turn data into information. Students will learn the necessary computational skills for the analysis of genomic data sets. Starting with the basics of using a command line interface (text editor, shell), and how to get started on Pegasus, the course will teach Python, and how to write scripts for downloading, manipulating, and analyzing data. File sharing and version control using github will be introduced (including RCR training). Using an experiential learning model, students will choose a Next Generation Sequencing data set (RNAseq, exome, or whole genome; public or user), and will learn how to analyze the data set, and how to interpret the results and present them.
