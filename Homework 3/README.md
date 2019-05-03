@@ -1,3 +1,4 @@
+# Homework 3
 Download the files Influenza_inf_expr.txt that hold over 20 samples of expression profiles of human genes in human HBE cells that are infected by the Influenza H1N1 virus. In the second file Influenza_control_expr.txt you will find control samples of cells that are not infected. Both files hold gene names in the first column and expression gene expression values of the corresponding genes in the underlying samples.
 
 Write a python code that:
